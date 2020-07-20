@@ -25,6 +25,7 @@
     "faker": "^4.1.0",
     "moment": "^2.27.0",
     "mongoose": "^5.9.22",
+    "newrelic": "^6.11.0",
     "nodemon": "^2.0.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",

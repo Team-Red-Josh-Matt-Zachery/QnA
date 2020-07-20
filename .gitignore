@@ -105,3 +105,5 @@ dist
 
 # Data file
 server/db/qnaData.json
+#newrelic
+newrelic.js
