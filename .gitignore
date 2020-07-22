@@ -107,3 +107,5 @@ dist
 database/qnaData.json
 #newrelic
 newrelic.js
+#.env file
+.env
