@@ -1,5 +1,6 @@
 const mongoose = require('mongoose');
 const Schemas = require('./schema');
+require('dotenv').config();
 
 mongoose.connect('mongodb://localhost/qna', { useNewUrlParser: true, useUnifiedTopology: true });
 
