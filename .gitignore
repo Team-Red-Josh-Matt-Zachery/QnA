@@ -104,6 +104,6 @@ dist
 .tern-port
 
 # Data file
-server/db/qnaData.json
+database/qnaData.json
 #newrelic
 newrelic.js
